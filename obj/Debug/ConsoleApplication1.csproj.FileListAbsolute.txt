@@ -1,0 +1,2 @@
+C:\Moustafa\Revit_API\Projects\Temp\testprojects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Moustafa\Revit_API\Projects\Temp\testprojects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

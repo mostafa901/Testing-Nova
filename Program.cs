@@ -25,7 +25,7 @@ namespace ConsoleApplication1
             dlg.ShowDialog();
 
 
-            var doc = DocX.Load(System.Reflection.Assembly.GetExecutingAssembly().GetManifestResourceStream("OfficeAPI.Resources.SOR.docx"));
+            var doc = DocX.Load(System.Reflection.Assembly.GetExecutingAssembly().GetManifestResourceStream("ConsoleApplication1.Resources.SOR.docx"));
             var cell = doc.Tables[1].Rows[1].Cells[0];
             var para = cell.Paragraphs[0];
             para.InsertText(@"01all marbles must be finished 45 degrees");

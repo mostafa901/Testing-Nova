@@ -93,9 +93,7 @@ namespace ConsoleApplication1
 
                     pic1.Height = (int)XUnit.FromInch(3).Point;
                     pic1.Width = (int)(XUnit.FromInch(5).Point);
-                    //  pic1.Height = (int)XUnit.FromInch(6.95).Point;
-                    // pic1.Width = (int)(XUnit.FromInch(3.9).Point);
-                    //--> try this   pic1.Width = (int)(288/ratio);
+                    
 
 
                 }
